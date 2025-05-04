@@ -11,5 +11,8 @@
         { "key": "X-XSS-Protection", "value": "1; mode=block" }
       ]
     }
-  ]
+  ],
+  "env": {
+    "VITE_API_URL": "https://expense-tracker-backend-1-mlp5.onrender.com"
+  }
 }
